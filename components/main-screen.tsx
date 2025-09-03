@@ -3,6 +3,7 @@ const MainScreen = () => {
         <main>
             <h1>Exemplo de Deploy</h1>
             <p>Exemplificando a entrega contínua</p>
+            <p>Development </p>
         </main>
     );
 }
